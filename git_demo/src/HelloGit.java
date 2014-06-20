@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("文件在远程被编辑");
 		System.out.println("远程编辑，13：20");
 		System.out.println("本地编辑，13:20");
+		System.out.println("远程修改git类，13:37");
 		System.out.println("本地git类，13:37");
 		
 	}
