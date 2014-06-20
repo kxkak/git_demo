@@ -7,6 +7,7 @@ public class Test1 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("新添加一个测试类");
+		System.out.println("本地修改test1文件，13:47");
 
 	}
 
